@@ -2,7 +2,7 @@
 // const root = ReactDOM.createRoot(document.getElementById("root"));
 // root.render(heading);
 const heading = React.createElement("h1", { id: "headingMain" }, "inside heading one");
-const heading2 = React.createElement("h2", { id: "headingMain" }, "inside heading two");
+const heading2 = React.createElement("h2", { id: "headingSecondary" }, "inside heading two");
 const container = React.createElement("div", null, heading, heading2);
 
 const rootElement = document.getElementById("root");

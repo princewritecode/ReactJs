@@ -4,7 +4,7 @@
 
 [<< Day 1](../01_Day_JavaScript_Refresher/01_javascript_refresher.md) | [Day 3 >>](../03_Day_Setting_Up/03_setting_up.md)
 
-![30 Days of React banner]
+
 
 - [Getting Started React](#getting-started-react)
   - [1. What is React?](#1-what-is-react)

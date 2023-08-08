@@ -1,5 +1,5 @@
 {
-  "name": "episode2practice",
+  "name": "episode3",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
@@ -8,7 +8,6 @@
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {

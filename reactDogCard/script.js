@@ -5,12 +5,13 @@ const rootElem = ReactDOM.createRoot(document.getElementsByClassName("root")[0])
 rootElem.render(element);
 */
 import React from "react";
-import ReactDOM from "react-dom";
+import ReactDOM from "react-dom/client";
 import CatBox from "./Src/Components/Cat";
+import Counter from "./Src/Components/Counter";
 const AppLayOut = () => {
     return (
         <>
-            <CatBox name="Bunty"></CatBox>
+            <Counter></Counter>
         </>
     );
 };
